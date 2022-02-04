@@ -5,6 +5,6 @@ public class DemoTest {
     
     @Test
     public void testTrue() {
-        assertFalse(Demo.retTrue());
+        assertTrue(Demo.retTrue());
     }
 }
